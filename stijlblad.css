@@ -1,0 +1,77 @@
+
+
+table{
+	width: 100%;
+		border-style: solid;
+			border-width: 2px;
+				border-color:#282828;
+		}
+
+font{
+	font-family: "tahoma";
+		font-size: 60px;
+			color:#282828;
+	}
+
+
+
+h1{
+	font-family: "tahoma";
+		font-size: 30px;
+			color:#282828;
+	}
+
+
+
+i{
+	font-family: "tahoma";
+		font-size: 15px;
+			color:#282828;
+	}
+								
+
+
+p{
+	font-family: "tahoma";
+		font-size: 15px;
+			color:#282828;
+	}										
+
+
+
+li{
+	font-family: "tahoma";
+		font-size: 15px;
+			color:#282828;
+	}			
+
+
+	
+a{
+	font-family: "tahoma";
+		font-size: 20px;
+			color:#282828;
+	}
+
+
+
+a:hover{
+	font-family: "tahoma";
+		font-size: 20px;
+			color:green;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
